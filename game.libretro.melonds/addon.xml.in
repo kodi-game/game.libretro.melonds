@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.melonds"
+		name="Nintendo DS (melonDS)"
+		version="0.5.0"
+		provider-name="Libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
+		<platforms></platforms>
+		<extensions>nds</extensions>
+		<supports_vfs>false</supports_vfs>
+		<supports_standalone>false</supports_standalone>
+		<supports_keyboard>false</supports_keyboard>
+		<supports_mouse>false</supports_mouse>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Nintendo DS (melonDS) 0.5</summary>
+		<description>Supported files: .nds</description>
+		<license>GPLv2</license>
+		<platform>@PLATFORM@</platform>
+	</extension>
+</addon>
