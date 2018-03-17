@@ -17,7 +17,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Nintendo - DS (melonDS) 0.6</summary>
 		<description lang="en_GB">Supported files: .nds</description>
-		<license>GPLv2</license>
+		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
