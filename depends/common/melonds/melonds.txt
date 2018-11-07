@@ -1,1 +1,1 @@
-melonds https://github.com/libretro/melonDS master
+melonds https://github.com/libretro/melonDS/archive/ee2f3e3b7057729b05fd4cb5f2a3f3a6998e4c06.zip
