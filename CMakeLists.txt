@@ -4,7 +4,7 @@ project(game.libretro.melonds)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-melonds REQUIRED)
+find_library(MELONDS_LIB NAMES melonds_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(MELONDS_CUSTOM_BINARY ${MELONDS_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
