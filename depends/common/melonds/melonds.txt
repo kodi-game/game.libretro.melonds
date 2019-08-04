@@ -1,1 +1,1 @@
-melonds https://github.com/libretro/melonDS/archive/f3a42da78908edf4500055f4cb895e144094643d.zip
+melonds https://github.com/libretro/melonDS/archive/ff979c54199c44ef23b35116c1dc60c748a61d83.zip

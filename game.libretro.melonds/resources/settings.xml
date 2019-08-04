@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="melonds_boot_directly" values="enabled|disabled" default="enabled"/>
+		<setting label="30002" type="select" id="melonds_opengl_renderer" values="disabled|enabled" default="disabled"/>
+		<setting label="30003" type="select" id="melonds_opengl_resolution" values="1x native (256x192)|2x native (512x384)|3x native (768x576)|4x native (1024x768)|5x native (1280x960)|6x native (1536x1152)|7x native (1792x1344)|8x native (2048x1536)" default="1x native (256x192)"/>
+		<setting label="30004" type="select" id="melonds_screen_layout" values="Top/Bottom|Bottom/Top|Left/Right|Right/Left|Top Only|Bottom Only" default="Top/Bottom"/>
+		<setting label="30005" type="select" id="melonds_threaded_renderer" values="disabled|enabled" default="disabled"/>
+		<setting label="30006" type="select" id="melonds_touch_mode" values="disabled|Mouse|Touch" default="disabled"/>
+	</category>
+</settings>
