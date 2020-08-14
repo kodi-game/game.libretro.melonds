@@ -2,7 +2,7 @@
 <addon id="game.libretro.melonds"
 		name="Nintendo - DS (melonDS)"
 		version="0.8.3.7"
-		provider-name="Libretro">
+		provider-name="StapleButter">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.nds" version="1.0.0"/>
