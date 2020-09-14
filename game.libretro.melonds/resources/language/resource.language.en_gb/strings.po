@@ -25,21 +25,53 @@ msgid "Boot game directly"
 msgstr ""
 
 msgctxt "#30002"
-msgid "OpenGL Renderer (Restart)"
+msgid "Hybrid ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "OpenGL Internal Resolution"
+msgid "JIT block size"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Screen Layout"
+msgid "JIT Branch optimisations"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Threaded software renderer"
+msgid "JIT Enable (Restart)"
 msgstr ""
 
 msgctxt "#30006"
+msgid "JIT Fast memory"
+msgstr ""
+
+msgctxt "#30007"
+msgid "JIT Literal optimisations"
+msgstr ""
+
+msgctxt "#30008"
+msgid "OpenGL Improved polygon splitting"
+msgstr ""
+
+msgctxt "#30009"
+msgid "OpenGL Renderer (Restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "OpenGL Internal Resolution"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Screen Layout"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Swap Screen mode"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Threaded software renderer"
+msgstr ""
+
+msgctxt "#30014"
 msgid "Touch mode"
 msgstr ""

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.melonds"
 		name="Nintendo - DS (melonDS)"
-		version="0.8.3.8"
+		version="0.9.0.9"
 		provider-name="StapleButter">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,7 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - DS (melonDS) 0.8.3</summary>
+		<summary lang="en_GB">Nintendo - DS (melonDS) 0.9</summary>
 		<description lang="en_GB">Supported files: .nds</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
