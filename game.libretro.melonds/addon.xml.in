@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.melonds"
 		name="Nintendo - DS (melonDS)"
-		version="0.9.0.12"
-		provider-name="StapleButter">
+		version="0.9.0.13"
+		provider-name="Arisotura">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.nds" version="1.0.0"/>

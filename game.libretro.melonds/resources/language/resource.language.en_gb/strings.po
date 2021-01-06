@@ -29,49 +29,29 @@ msgid "Hybrid ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "JIT block size"
-msgstr ""
-
-msgctxt "#30004"
-msgid "JIT Branch optimisations"
-msgstr ""
-
-msgctxt "#30005"
-msgid "JIT Enable (Restart)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "JIT Fast memory"
-msgstr ""
-
-msgctxt "#30007"
-msgid "JIT Literal optimisations"
-msgstr ""
-
-msgctxt "#30008"
 msgid "OpenGL Improved polygon splitting"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30004"
 msgid "OpenGL Renderer (Restart)"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30005"
 msgid "OpenGL Internal Resolution"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30006"
 msgid "Screen Layout"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30007"
 msgid "Swap Screen mode"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30008"
 msgid "Threaded software renderer"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30009"
 msgid "Touch mode"
 msgstr ""
