@@ -1,0 +1,81 @@
+# game.libretro.melonds language file
+# Addon Name: game.libretro.melonds
+# Addon id: game.libretro.melonds
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.melonds\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2019-08-03 21:30i\n"
+"PO-Revision-Date: 2019-08-03 21:30i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fo_fo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Boot game directly"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Hybrid ratio"
+msgstr ""
+
+msgctxt "#30003"
+msgid "JIT block size"
+msgstr ""
+
+msgctxt "#30004"
+msgid "JIT Branch optimisations"
+msgstr ""
+
+msgctxt "#30005"
+msgid "JIT Enable (Restart)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "JIT Fast memory"
+msgstr ""
+
+msgctxt "#30007"
+msgid "JIT Literal optimisations"
+msgstr ""
+
+msgctxt "#30008"
+msgid "OpenGL Improved polygon splitting"
+msgstr ""
+
+msgctxt "#30009"
+msgid "OpenGL filtering"
+msgstr ""
+
+msgctxt "#30010"
+msgid "OpenGL Renderer (Restart)"
+msgstr ""
+
+msgctxt "#30011"
+msgid "OpenGL Internal Resolution"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Screen Layout"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Swap Screen mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Threaded software renderer"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Touch mode"
+msgstr ""
