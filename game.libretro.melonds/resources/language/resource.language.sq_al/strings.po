@@ -25,57 +25,57 @@ msgid "Boot game directly"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Hybrid ratio"
-msgstr ""
-
-msgctxt "#30003"
-msgid "JIT block size"
-msgstr ""
-
-msgctxt "#30004"
-msgid "JIT Branch optimisations"
-msgstr ""
-
-msgctxt "#30005"
-msgid "JIT Enable (Restart)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "JIT Fast memory"
-msgstr ""
-
-msgctxt "#30007"
-msgid "JIT Literal optimisations"
-msgstr ""
-
-msgctxt "#30008"
-msgid "OpenGL Improved polygon splitting"
-msgstr ""
-
-msgctxt "#30009"
-msgid "OpenGL filtering"
-msgstr ""
-
-msgctxt "#30010"
-msgid "OpenGL Renderer (Restart)"
-msgstr ""
-
-msgctxt "#30011"
-msgid "OpenGL Internal Resolution"
-msgstr ""
-
-msgctxt "#30012"
 msgid "Screen Layout"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30003"
+msgid "Hybrid ratio"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Swap Screen mode"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30005"
 msgid "Threaded software renderer"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30006"
 msgid "Touch mode"
+msgstr ""
+
+msgctxt "#30007"
+msgid "OpenGL Renderer (Restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "OpenGL Internal Resolution"
+msgstr ""
+
+msgctxt "#30009"
+msgid "OpenGL Improved polygon splitting"
+msgstr ""
+
+msgctxt "#30010"
+msgid "OpenGL filtering"
+msgstr ""
+
+msgctxt "#30011"
+msgid "JIT Enable (Restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "JIT block size"
+msgstr ""
+
+msgctxt "#30013"
+msgid "JIT Branch optimisations"
+msgstr ""
+
+msgctxt "#30014"
+msgid "JIT Literal optimisations"
+msgstr ""
+
+msgctxt "#30015"
+msgid "JIT Fast memory"
 msgstr ""
