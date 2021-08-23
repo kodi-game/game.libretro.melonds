@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - DS (melonDS) 0.9.1"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "melonDS aims at providing fast and accurate Nintendo DS emulation.
+
+Supported files: .nds"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
