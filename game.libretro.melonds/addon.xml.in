@@ -19,6 +19,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.melonds</source>
 		<summary lang="en_GB">Nintendo - DS (melonDS) 0.9.1</summary>
-		<description lang="en_GB">melonDS aims at providing fast and accurate Nintendo DS emulation.</description>
+		<description lang="en_GB">melonDS aims at providing fast and accurate Nintendo DS emulation.Supported files: .nds</description>
 	</extension>
 </addon>
