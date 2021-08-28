@@ -1,1 +1,1 @@
-melonds https://github.com/libretro/melonDS/archive/ac2f1ef890a00abb18db6f0f96ea08e074687bc7.tar.gz
+melonds https://github.com/libretro/melonDS/archive/0f52e263f40ef976f322dd7f45d68dc5695eaf65.tar.gz

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.melonds"
 		name="Nintendo - DS (melonDS)"
-		version="0.9.1.18"
+		version="0.9.1.19"
 		provider-name="Arisotura">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.melonds</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Nintendo - DS (melonDS) 0.9.1</summary>
 		<description lang="en_GB">melonDS aims at providing fast and accurate Nintendo DS emulation.</description>
 	</extension>
