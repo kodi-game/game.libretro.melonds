@@ -30,61 +30,85 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Boot game directly"
+msgid "Console Mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Screen Layout"
+msgid "Boot game directly"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Hybrid ratio"
+msgid "Screen Layout"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Swap Screen mode"
+msgid "Screen gap"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Threaded software renderer"
+msgid "Hybrid small screen mode"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Touch mode"
+msgid "Swap Screen mode"
 msgstr ""
 
 msgctxt "#30007"
-msgid "OpenGL Renderer (Restart)"
+msgid "Threaded software renderer"
 msgstr ""
 
 msgctxt "#30008"
-msgid "OpenGL Internal Resolution"
+msgid "Touch mode"
 msgstr ""
 
 msgctxt "#30009"
-msgid "OpenGL Improved polygon splitting"
+msgid "Hybrid ratio (OpenGL only)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "OpenGL filtering"
+msgid "OpenGL Renderer (Restart)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "JIT Enable (Restart)"
+msgid "OpenGL Internal Resolution"
 msgstr ""
 
 msgctxt "#30012"
-msgid "JIT block size"
+msgid "OpenGL Improved polygon splitting"
 msgstr ""
 
 msgctxt "#30013"
-msgid "JIT Branch optimisations"
+msgid "OpenGL filtering"
 msgstr ""
 
 msgctxt "#30014"
-msgid "JIT Literal optimisations"
+msgid "JIT Enable (Restart)"
 msgstr ""
 
 msgctxt "#30015"
+msgid "JIT block size"
+msgstr ""
+
+msgctxt "#30016"
+msgid "JIT Branch optimisations"
+msgstr ""
+
+msgctxt "#30017"
+msgid "JIT Literal optimisations"
+msgstr ""
+
+msgctxt "#30018"
 msgid "JIT Fast memory"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Enable DSi SD card"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Audio bitrate"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Audio Interpolation"
 msgstr ""
