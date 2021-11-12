@@ -53,61 +53,65 @@ msgid "Swap Screen mode"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Threaded software renderer"
+msgid "Randomize MAC address"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Touch mode"
+msgid "Threaded software renderer"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Hybrid ratio (OpenGL only)"
+msgid "Touch mode"
 msgstr ""
 
 msgctxt "#30010"
-msgid "OpenGL Renderer (Restart)"
+msgid "Hybrid ratio (OpenGL only)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "OpenGL Internal Resolution"
+msgid "OpenGL Renderer (Restart)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "OpenGL Improved polygon splitting"
+msgid "OpenGL Internal Resolution"
 msgstr ""
 
 msgctxt "#30013"
-msgid "OpenGL filtering"
+msgid "OpenGL Improved polygon splitting"
 msgstr ""
 
 msgctxt "#30014"
-msgid "JIT Enable (Restart)"
+msgid "OpenGL filtering"
 msgstr ""
 
 msgctxt "#30015"
-msgid "JIT block size"
+msgid "JIT Enable (Restart)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "JIT Branch optimisations"
+msgid "JIT block size"
 msgstr ""
 
 msgctxt "#30017"
-msgid "JIT Literal optimisations"
+msgid "JIT Branch optimisations"
 msgstr ""
 
 msgctxt "#30018"
-msgid "JIT Fast memory"
+msgid "JIT Literal optimisations"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Enable DSi SD card"
+msgid "JIT Fast memory"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Audio bitrate"
+msgid "Enable DSi SD card"
 msgstr ""
 
 msgctxt "#30021"
+msgid "Audio bitrate"
+msgstr ""
+
+msgctxt "#30022"
 msgid "Audio Interpolation"
 msgstr ""
