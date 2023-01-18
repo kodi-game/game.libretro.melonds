@@ -33,85 +33,97 @@ msgid "Console Mode"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Boot game directly"
+msgid "Boot Game Directly"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Screen Layout"
+msgid "Use Firmware Settings"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Screen gap"
+msgid "Language"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Hybrid small screen mode"
+msgid "Randomize MAC Address"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Swap Screen mode"
+msgid "Enable DSi SD Card"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Randomize MAC address"
+msgid "Threaded Software Renderer"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Threaded software renderer"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Touch mode"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Hybrid ratio (OpenGL only)"
-msgstr ""
-
-msgctxt "#30011"
 msgid "OpenGL Renderer (Restart)"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30009"
 msgid "OpenGL Internal Resolution"
 msgstr ""
 
+msgctxt "#30010"
+msgid "OpenGL Improved Polygon Splitting"
+msgstr ""
+
+msgctxt "#30011"
+msgid "OpenGL Filtering"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Microphone Input"
+msgstr ""
+
 msgctxt "#30013"
-msgid "OpenGL Improved polygon splitting"
+msgid "Audio Bitrate"
 msgstr ""
 
 msgctxt "#30014"
-msgid "OpenGL filtering"
+msgid "Audio Interpolation"
 msgstr ""
 
 msgctxt "#30015"
-msgid "JIT Enable (Restart)"
+msgid "Touch Mode"
 msgstr ""
 
 msgctxt "#30016"
-msgid "JIT block size"
+msgid "Swap Screen Mode"
 msgstr ""
 
 msgctxt "#30017"
-msgid "JIT Branch optimisations"
+msgid "Screen Layout"
 msgstr ""
 
 msgctxt "#30018"
-msgid "JIT Literal optimisations"
+msgid "Screen Gap"
 msgstr ""
 
 msgctxt "#30019"
-msgid "JIT Fast memory"
+msgid "Hybrid Small Screen Mode"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Enable DSi SD card"
+msgid "Hybrid Ratio (OpenGL Only)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Audio bitrate"
+msgid "JIT Enable (Restart)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Audio Interpolation"
+msgid "JIT Block Size"
+msgstr ""
+
+msgctxt "#30023"
+msgid "JIT Branch Optimisations"
+msgstr ""
+
+msgctxt "#30024"
+msgid "JIT Literal Optimisations"
+msgstr ""
+
+msgctxt "#30025"
+msgid "JIT Fast Memory"
 msgstr ""
