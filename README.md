@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.melonds/resources/icon.png)
+![Nintendo - DS (melonDS) icon](game.libretro.melonds/resources/icon.png)
 
 ### Fanart
 
