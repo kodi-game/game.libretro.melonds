@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.melonds\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-03 21:30i\n"
-"PO-Revision-Date: 2023-02-04 01:09+0000\n"
+"PO-Revision-Date: 2023-02-17 23:02+0000\n"
 "Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-melonds/es_es/>\n"
 "Language: es_es\n"
@@ -35,11 +35,11 @@ msgstr "Modo Consola"
 
 msgctxt "#30002"
 msgid "Boot Game Directly"
-msgstr ""
+msgstr "Arrancar Juego Directamente"
 
 msgctxt "#30003"
 msgid "Use Firmware Settings"
-msgstr ""
+msgstr "Utilizar la Configuración del Firmware"
 
 msgctxt "#30004"
 msgid "Language"
@@ -47,7 +47,7 @@ msgstr "Idioma"
 
 msgctxt "#30005"
 msgid "Randomize MAC Address"
-msgstr ""
+msgstr "Dirección MAC Aleatoria"
 
 msgctxt "#30006"
 msgid "Enable DSi SD Card"
@@ -79,31 +79,31 @@ msgstr "Entrada de Micrófono"
 
 msgctxt "#30013"
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "Tasa de Bits de Audio"
 
 msgctxt "#30014"
 msgid "Audio Interpolation"
-msgstr ""
+msgstr "Interpolación de Audio"
 
 msgctxt "#30015"
 msgid "Touch Mode"
-msgstr ""
+msgstr "Modo Táctil"
 
 msgctxt "#30016"
 msgid "Swap Screen Mode"
-msgstr ""
+msgstr "Cambiar Modo de Pantalla"
 
 msgctxt "#30017"
 msgid "Screen Layout"
-msgstr ""
+msgstr "Diseño de Pantalla"
 
 msgctxt "#30018"
 msgid "Screen Gap"
-msgstr ""
+msgstr "Separación entre Pantallas"
 
 msgctxt "#30019"
 msgid "Hybrid Small Screen Mode"
-msgstr ""
+msgstr "Modo Híbrido en Pantalla Pequeña"
 
 msgctxt "#30020"
 msgid "Hybrid Ratio (OpenGL Only)"
@@ -115,7 +115,7 @@ msgstr "Activar JIT (reinicio)"
 
 msgctxt "#30022"
 msgid "JIT Block Size"
-msgstr ""
+msgstr "Tamaño de Bloque JIT"
 
 msgctxt "#30023"
 msgid "JIT Branch Optimisations"
@@ -127,7 +127,7 @@ msgstr "Optimizaciones Literales JIT"
 
 msgctxt "#30025"
 msgid "JIT Fast Memory"
-msgstr ""
+msgstr "Memoria Rápida JIT"
 
 #~ msgctxt "#30002"
 #~ msgid "Boot game directly"
