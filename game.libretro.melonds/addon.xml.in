@@ -22,12 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="da_DK">Nintendo - DS (melonDS) 0.9.3</summary>
-		<summary lang="de_DE">Nintendo - DS (melonDS) 0.9.3</summary>
 		<summary lang="en_GB">Nintendo - DS (melonDS)</summary>
-		<summary lang="es_ES">Nintendo - DS (melonDS) 0.9.3</summary>
-		<summary lang="it_IT">Nintendo - DS (melonDS) 0.9.3</summary>
-		<summary lang="zh_CN">任天堂-DS（melonDS）0.9.3</summary>
 		<description lang="da_DK">melonDS sigter mod at levere hurtig og præcis Nintendo DS-emulering.</description>
 		<description lang="de_DE">melonDS zielt auf die schnelle und akkurate Nintendo DS Emulation ab.</description>
 		<description lang="en_GB">melonDS aims at providing fast and accurate Nintendo DS emulation.</description>
