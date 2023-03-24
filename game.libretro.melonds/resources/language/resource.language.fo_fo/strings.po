@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - DS (melonDS) 0.9.3"
+msgid "Nintendo - DS (melonDS)"
 msgstr ""
 
 msgctxt "Addon Description"

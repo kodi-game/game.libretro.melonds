@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - DS (melonDS) 0.9.3"
-msgstr "任天堂-DS（melonDS）0.9.3"
+msgid "Nintendo - DS (melonDS)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "melonDS aims at providing fast and accurate Nintendo DS emulation."
@@ -128,6 +128,10 @@ msgstr ""
 msgctxt "#30025"
 msgid "JIT Fast Memory"
 msgstr ""
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Nintendo - DS (melonDS) 0.9.3"
+#~ msgstr "任天堂-DS（melonDS）0.9.3"
 
 #~ msgctxt "#30002"
 #~ msgid "Boot game directly"
