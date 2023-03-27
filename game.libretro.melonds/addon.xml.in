@@ -23,6 +23,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Nintendo - DS (melonDS)</summary>
+		<summary lang="es_ES">Nintendo - DS (melonDS)</summary>
 		<description lang="da_DK">melonDS sigter mod at levere hurtig og præcis Nintendo DS-emulering.</description>
 		<description lang="de_DE">melonDS zielt auf die schnelle und akkurate Nintendo DS Emulation ab.</description>
 		<description lang="en_GB">melonDS aims at providing fast and accurate Nintendo DS emulation.</description>
