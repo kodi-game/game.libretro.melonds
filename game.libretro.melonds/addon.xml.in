@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.melonds"
 		name="Nintendo - DS (melonDS)"
-		version="0.9.3.35"
+		version="0.9.3.36"
 		provider-name="Arisotura">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>nds|dsi</extensions>
+		<extensions>nds|ids|dsi</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>true</requires_opengl>
