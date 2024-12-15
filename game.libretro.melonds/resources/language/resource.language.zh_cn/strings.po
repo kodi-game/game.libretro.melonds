@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "melonDS aims at providing fast and accurate Nintendo DS emulation."
 msgstr "melonDS 旨在提供快速精准的任天堂 DS 仿真。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Console Mode"
 msgstr "控制台模式"
@@ -128,6 +124,10 @@ msgstr "JIT 文字优化"
 msgctxt "#30025"
 msgid "JIT Fast Memory"
 msgstr "JIT 快速内存"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "Addon Summary"
 #~ msgid "Nintendo - DS (melonDS) 0.9.3"

@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "melonDS aims at providing fast and accurate Nintendo DS emulation."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Console Mode"
 msgstr ""
