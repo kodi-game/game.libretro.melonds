@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.melonds\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-03 21:30i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-melonds/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (melonDS)"
@@ -31,99 +31,110 @@ msgstr "Konsolläge"
 
 msgctxt "#30002"
 msgid "Boot Game Directly"
-msgstr ""
+msgstr "Starta spelet direkt"
 
 msgctxt "#30003"
 msgid "Use Firmware Settings"
-msgstr ""
+msgstr "Använd firmwareinställningar"
 
 msgctxt "#30004"
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 msgctxt "#30005"
 msgid "Randomize MAC Address"
-msgstr ""
+msgstr "Slumpmässig MAC-adress"
 
 msgctxt "#30006"
 msgid "Enable DSi SD Card"
-msgstr ""
+msgstr "Aktivera DSi SD-kort"
 
 msgctxt "#30007"
 msgid "Threaded Software Renderer"
-msgstr ""
+msgstr "Trådad programvarurenderare"
 
 msgctxt "#30008"
 msgid "OpenGL Renderer (Restart)"
-msgstr ""
+msgstr "OpenGL Renderare (omstart)"
 
 msgctxt "#30009"
 msgid "OpenGL Internal Resolution"
-msgstr ""
+msgstr "OpenGL intern upplösning"
 
 msgctxt "#30010"
 msgid "OpenGL Improved Polygon Splitting"
-msgstr ""
+msgstr "OpenGL-förbättrad polygondelning"
 
 msgctxt "#30011"
 msgid "OpenGL Filtering"
-msgstr ""
+msgstr "OpenGL-filtrering"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Microphone Input"
-msgstr ""
+msgstr "Mikrofoningång"
 
 msgctxt "#30013"
 msgid "Audio Bitrate"
-msgstr ""
+msgstr "Bitfrekvens för ljud"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Audio Interpolation"
-msgstr ""
+msgstr "Ljudinterpolering"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Touch Mode"
-msgstr ""
+msgstr "PEKLÄGE"
 
 msgctxt "#30016"
 msgid "Swap Screen Mode"
-msgstr ""
+msgstr "Växla skärmläge"
 
 msgctxt "#30017"
 msgid "Screen Layout"
-msgstr ""
+msgstr "Skärmlayout"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Screen Gap"
-msgstr ""
+msgstr "Skärmgap"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Hybrid Small Screen Mode"
-msgstr ""
+msgstr "Hybridläge för liten skärm"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Hybrid Ratio (OpenGL Only)"
-msgstr ""
+msgstr "Hybridförhållande (endast OpenGL)"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "JIT Enable (Restart)"
-msgstr ""
+msgstr "JIT-aktivering (omstart)"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "JIT Block Size"
-msgstr ""
+msgstr "JIT Blockstorlek"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "JIT Branch Optimisations"
-msgstr ""
+msgstr "Optimering av JIT-grenar"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "JIT Literal Optimisations"
-msgstr ""
+msgstr "JIT bokstavliga optimeringar"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "JIT Fast Memory"
-msgstr ""
+msgstr "JIT Snabbt minne"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
