@@ -7,19 +7,19 @@ msgstr ""
 "Project-Id-Version: game.libretro.melonds\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-03 21:30i\n"
-"PO-Revision-Date: 2024-12-27 21:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-08-22 07:06+0000\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-melonds/it_it/>\n"
 "Language: it_it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (melonDS)"
-msgstr ""
+msgstr "Nintendo - DS (melonDS)"
 
 msgctxt "Addon Description"
 msgid "melonDS aims at providing fast and accurate Nintendo DS emulation."
@@ -43,31 +43,31 @@ msgstr "Lingua"
 
 msgctxt "#30005"
 msgid "Randomize MAC Address"
-msgstr ""
+msgstr "Casualizza indirizzo MAC"
 
 msgctxt "#30006"
 msgid "Enable DSi SD Card"
-msgstr ""
+msgstr "Abilita scheda SD DSi"
 
 msgctxt "#30007"
 msgid "Threaded Software Renderer"
-msgstr ""
+msgstr "Motore di rendering software multithread"
 
 msgctxt "#30008"
 msgid "OpenGL Renderer (Restart)"
-msgstr ""
+msgstr "Motore di rendering OpenGL (richiede riavvio)"
 
 msgctxt "#30009"
 msgid "OpenGL Internal Resolution"
-msgstr ""
+msgstr "Risoluzione interna OpenGL"
 
 msgctxt "#30010"
 msgid "OpenGL Improved Polygon Splitting"
-msgstr ""
+msgstr "Suddivisione poligoni migliorata OpenGL"
 
 msgctxt "#30011"
 msgid "OpenGL Filtering"
-msgstr ""
+msgstr "Filtro OpenGL"
 
 msgctxt "#30012"
 msgid "Microphone Input"
@@ -83,11 +83,11 @@ msgstr "Interpolazione audio"
 
 msgctxt "#30015"
 msgid "Touch Mode"
-msgstr ""
+msgstr "Modalità tocco"
 
 msgctxt "#30016"
 msgid "Swap Screen Mode"
-msgstr ""
+msgstr "Modalità scambio schermo"
 
 msgctxt "#30017"
 msgid "Screen Layout"
@@ -95,34 +95,110 @@ msgstr "Disposizione schermo"
 
 msgctxt "#30018"
 msgid "Screen Gap"
-msgstr ""
+msgstr "Distanza tra schermi"
 
 msgctxt "#30019"
 msgid "Hybrid Small Screen Mode"
-msgstr ""
+msgstr "Modalità schermo piccolo ibrida"
 
 msgctxt "#30020"
 msgid "Hybrid Ratio (OpenGL Only)"
-msgstr ""
+msgstr "Proporzioni ibride (solo OpenGL)"
 
 msgctxt "#30021"
 msgid "JIT Enable (Restart)"
-msgstr ""
+msgstr "Abilita JIT (richiede riavvio)"
 
 msgctxt "#30022"
 msgid "JIT Block Size"
-msgstr ""
+msgstr "Dimensione blocco JIT"
 
 msgctxt "#30023"
 msgid "JIT Branch Optimisations"
-msgstr ""
+msgstr "Ottimizzazioni diramazioni JIT"
 
 msgctxt "#30024"
 msgid "JIT Literal Optimisations"
-msgstr ""
+msgstr "Ottimizzazioni letterali JIT"
 
 msgctxt "#30025"
 msgid "JIT Fast Memory"
+msgstr "Memoria rapida JIT"
+
+msgctxt "#30026"
+msgid "System"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Change system settings."
+msgstr ""
+
+msgctxt "#30028"
+msgid "Choose if the core should boot the game directly or if it should boot to the DS menu instead (BIOS and firmware files required)."
+msgstr ""
+
+msgctxt "#30029"
+msgid "Use language and username from the DS firmware. When disabled or if firmware file was not found, the username will be provided by the Libretro frontend, if it's empty it will default to 'melonDS'."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Selected language will be used if 'Use Firmware Settings' is disabled or if firmware file was not found."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Change video settings."
+msgstr ""
+
+msgctxt "#30033"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Change audio settings."
+msgstr ""
+
+msgctxt "#30035"
+msgid "Choose the type of noise that will be used as microphone input."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Screen"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Change screen settings."
+msgstr ""
+
+msgctxt "#30038"
+msgid "Choose mode for interactions with the touch screen."
+msgstr ""
+
+msgctxt "#30039"
+msgid "Choose if the 'Swap screens' button should work on press or on hold."
+msgstr ""
+
+msgctxt "#30040"
+msgid "Choose how many screens should be displayed and how they should be displayed."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Choose how large the gap between the 2 screens should be."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Choose the position of the small screen when using a 'hybrid' mode, or if it should show both screens."
+msgstr ""
+
+msgctxt "#30043"
+msgid "CPU Emulation"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Change CPU emulation settings."
 msgstr ""
 
 #~ msgctxt "#30000"

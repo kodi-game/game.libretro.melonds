@@ -125,6 +125,82 @@ msgctxt "#30025"
 msgid "JIT Fast Memory"
 msgstr "JIT: быстрая память"
 
+msgctxt "#30026"
+msgid "System"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Change system settings."
+msgstr ""
+
+msgctxt "#30028"
+msgid "Choose if the core should boot the game directly or if it should boot to the DS menu instead (BIOS and firmware files required)."
+msgstr ""
+
+msgctxt "#30029"
+msgid "Use language and username from the DS firmware. When disabled or if firmware file was not found, the username will be provided by the Libretro frontend, if it's empty it will default to 'melonDS'."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Selected language will be used if 'Use Firmware Settings' is disabled or if firmware file was not found."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Change video settings."
+msgstr ""
+
+msgctxt "#30033"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Change audio settings."
+msgstr ""
+
+msgctxt "#30035"
+msgid "Choose the type of noise that will be used as microphone input."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Screen"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Change screen settings."
+msgstr ""
+
+msgctxt "#30038"
+msgid "Choose mode for interactions with the touch screen."
+msgstr ""
+
+msgctxt "#30039"
+msgid "Choose if the 'Swap screens' button should work on press or on hold."
+msgstr ""
+
+msgctxt "#30040"
+msgid "Choose how many screens should be displayed and how they should be displayed."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Choose how large the gap between the 2 screens should be."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Choose the position of the small screen when using a 'hybrid' mode, or if it should show both screens."
+msgstr ""
+
+msgctxt "#30043"
+msgid "CPU Emulation"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Change CPU emulation settings."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Настройки"
