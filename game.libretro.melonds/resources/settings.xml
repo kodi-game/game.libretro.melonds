@@ -171,9 +171,9 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>Linear</option>
-							<option>Cosine</option>
-							<option>Cubic</option>
+							<option label="30045">Linear</option>
+							<option label="30046">Cosine</option>
+							<option label="30047">Cubic</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -187,9 +187,9 @@
 					<default>Mouse</default>
 					<constraints>
 						<options>
-							<option>Mouse</option>
-							<option>Touch</option>
-							<option>Joystick</option>
+							<option label="30048">Mouse</option>
+							<option label="30049">Touch</option>
+							<option label="30050">Joystick</option>
 							<option label="13106">disabled</option>
 						</options>
 					</constraints>
