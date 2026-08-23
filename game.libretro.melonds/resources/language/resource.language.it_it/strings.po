@@ -201,6 +201,30 @@ msgctxt "#30044"
 msgid "Change CPU emulation settings."
 msgstr ""
 
+msgctxt "#30045"
+msgid "Linear"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Cosine"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Mouse"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Touch"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Joystick"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Impostazioni"
