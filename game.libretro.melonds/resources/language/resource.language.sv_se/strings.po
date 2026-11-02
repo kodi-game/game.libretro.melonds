@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.melonds\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-03 21:30i\n"
-"PO-Revision-Date: 2026-01-22 18:13+0000\n"
+"PO-Revision-Date: 2026-11-02 20:49+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-melonds/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - DS (melonDS)"
@@ -69,24 +69,21 @@ msgctxt "#30011"
 msgid "OpenGL Filtering"
 msgstr "OpenGL-filtrering"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Microphone Input"
-msgstr "Mikrofoningång"
+msgstr "Mikrofoninmatning"
 
 msgctxt "#30013"
 msgid "Audio Bitrate"
 msgstr "Ljudbitfrekvens"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Audio Interpolation"
 msgstr "Ljudinterpolering"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Touch Mode"
-msgstr "PEKLÄGE"
+msgstr "Pekläge"
 
 msgctxt "#30016"
 msgid "Swap Screen Mode"
@@ -96,145 +93,137 @@ msgctxt "#30017"
 msgid "Screen Layout"
 msgstr "Skärmlayout"
 
-#, fuzzy
 msgctxt "#30018"
 msgid "Screen Gap"
-msgstr "Skärmgap"
+msgstr "Skärmmellanrum"
 
-#, fuzzy
 msgctxt "#30019"
 msgid "Hybrid Small Screen Mode"
 msgstr "Hybridläge för liten skärm"
 
-#, fuzzy
 msgctxt "#30020"
 msgid "Hybrid Ratio (OpenGL Only)"
 msgstr "Hybridförhållande (endast OpenGL)"
 
-#, fuzzy
 msgctxt "#30021"
 msgid "JIT Enable (Restart)"
-msgstr "JIT-aktivering (omstart)"
+msgstr "Aktivera JIT (kräver omstart)"
 
-#, fuzzy
 msgctxt "#30022"
 msgid "JIT Block Size"
-msgstr "JIT Blockstorlek"
+msgstr "JIT-blockstorlek"
 
-#, fuzzy
 msgctxt "#30023"
 msgid "JIT Branch Optimisations"
-msgstr "Optimering av JIT-grenar"
+msgstr "JIT-optimeringar av grenar"
 
-#, fuzzy
 msgctxt "#30024"
 msgid "JIT Literal Optimisations"
-msgstr "JIT bokstavliga optimeringar"
+msgstr "JIT-optimeringar av literaler"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "JIT Fast Memory"
-msgstr "JIT Snabbt minne"
+msgstr "JIT-snabbminne"
 
 msgctxt "#30026"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "#30027"
 msgid "Change system settings."
-msgstr ""
+msgstr "Ändra systeminställningar."
 
 msgctxt "#30028"
 msgid "Choose if the core should boot the game directly or if it should boot to the DS menu instead (BIOS and firmware files required)."
-msgstr ""
+msgstr "Välj om kärnan ska starta spelet direkt eller i stället starta till DS-menyn (BIOS- och firmwarefiler krävs)."
 
 msgctxt "#30029"
 msgid "Use language and username from the DS firmware. When disabled or if firmware file was not found, the username will be provided by the Libretro frontend, if it's empty it will default to 'melonDS'."
-msgstr ""
+msgstr "Använd språk och användarnamn från DS-firmware. När det är inaktiverat eller firmwarefilen inte hittas tillhandahålls användarnamnet av Libretro-gränssnittet; om det är tomt används ”melonDS”."
 
 msgctxt "#30030"
 msgid "Selected language will be used if 'Use Firmware Settings' is disabled or if firmware file was not found."
-msgstr ""
+msgstr "Det valda språket används om ”Använd firmwareinställningar” är inaktiverat eller firmwarefilen inte hittas."
 
 msgctxt "#30031"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30032"
 msgid "Change video settings."
-msgstr ""
+msgstr "Ändra videoinställningar."
 
 msgctxt "#30033"
 msgid "Audio"
-msgstr ""
+msgstr "Ljud"
 
 msgctxt "#30034"
 msgid "Change audio settings."
-msgstr ""
+msgstr "Ändra ljudinställningar."
 
 msgctxt "#30035"
 msgid "Choose the type of noise that will be used as microphone input."
-msgstr ""
+msgstr "Välj den brustyp som ska användas som mikrofoninmatning."
 
 msgctxt "#30036"
 msgid "Screen"
-msgstr ""
+msgstr "Skärm"
 
 msgctxt "#30037"
 msgid "Change screen settings."
-msgstr ""
+msgstr "Ändra skärminställningar."
 
 msgctxt "#30038"
 msgid "Choose mode for interactions with the touch screen."
-msgstr ""
+msgstr "Välj läge för interaktion med pekskärmen."
 
 msgctxt "#30039"
 msgid "Choose if the 'Swap screens' button should work on press or on hold."
-msgstr ""
+msgstr "Välj om knappen ”Växla skärmar” ska fungera vid nedtryckning eller när den hålls nedtryckt."
 
 msgctxt "#30040"
 msgid "Choose how many screens should be displayed and how they should be displayed."
-msgstr ""
+msgstr "Välj hur många skärmar som ska visas och hur de ska visas."
 
 msgctxt "#30041"
 msgid "Choose how large the gap between the 2 screens should be."
-msgstr ""
+msgstr "Välj hur stort mellanrummet mellan de två skärmarna ska vara."
 
 msgctxt "#30042"
 msgid "Choose the position of the small screen when using a 'hybrid' mode, or if it should show both screens."
-msgstr ""
+msgstr "Välj den lilla skärmens placering i ett hybridläge, eller om båda skärmarna ska visas."
 
 msgctxt "#30043"
 msgid "CPU Emulation"
-msgstr ""
+msgstr "CPU-emulering"
 
 msgctxt "#30044"
 msgid "Change CPU emulation settings."
-msgstr ""
+msgstr "Ändra inställningar för CPU-emulering."
 
 msgctxt "#30045"
 msgid "Linear"
-msgstr ""
+msgstr "Linjär"
 
 msgctxt "#30046"
 msgid "Cosine"
-msgstr ""
+msgstr "Cosinus"
 
 msgctxt "#30047"
 msgid "Cubic"
-msgstr ""
+msgstr "Kubisk"
 
 msgctxt "#30048"
 msgid "Mouse"
-msgstr ""
+msgstr "Mus"
 
 msgctxt "#30049"
 msgid "Touch"
-msgstr ""
+msgstr "Pekning"
 
 msgctxt "#30050"
 msgid "Joystick"
-msgstr ""
+msgstr "Styrspak"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
